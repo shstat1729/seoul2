@@ -8,6 +8,13 @@
 \description{
 Description.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://shstat1729.github.io/seoul2/}
+}
+
+}
 \author{
 \strong{Maintainer}: Sang Ho Park \email{shstat1729@gmail.com}
 
