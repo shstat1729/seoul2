@@ -1,0 +1,8 @@
+# Package index
+
+## All functions
+
+- [`bar()`](https://shstat1729.github.io/seoul2/reference/bar.md) :
+  Title is itititit
+- [`foo()`](https://shstat1729.github.io/seoul2/reference/foo.md) :
+  Title is itititit
