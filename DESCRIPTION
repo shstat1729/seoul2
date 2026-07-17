@@ -1,13 +1,13 @@
 Package: seoul2
 Type: Package
 Title: Seoul Lecture
-Version: 0.1.0
+Version: 0.1.0.9001
 Authors@R: c(person(given = c("Sang", "Ho"),
                         family = "Park",
                         role = c("aut", "cre"),
                         email = "shstat1729@gmail.com"))
 Description: Description.
-License: GPL-2
+License: GPL (>= 3)
 Imports:
   dplyr, checkmate
 Encoding: UTF-8
@@ -19,3 +19,4 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
+URL: https://shstat1729.github.io/seoul2/
